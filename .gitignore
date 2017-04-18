@@ -1,0 +1,12 @@
+*.[oa]
+dbg
+*.pyc
+*.conf
+*.cfg
+*.[bB]
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+
