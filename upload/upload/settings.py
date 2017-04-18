@@ -28,7 +28,10 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-
+WRITE_IP = [
+    '127.0.0.1',
+    
+]
 # Application definition
 
 INSTALLED_APPS = [
